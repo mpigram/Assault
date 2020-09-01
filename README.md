@@ -66,8 +66,3 @@ $ pipenv shell
 (assault) $
 ```
 
-<<<<<<< HEAD
-[1]: https://docs.pipenv.org/en/latest/
-=======
-[1]: https://docs.pipenv.org/en/latest/
->>>>>>> 80b2522c627bef7ea864befdf8f154c39ab621dd
